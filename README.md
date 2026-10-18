@@ -16,10 +16,6 @@ dotnet run --project src/Vyshkat -- data/fleet.txt        # сначала за�
 dotnet run --project src/Vyshkat < data/demo-session.txt  # демонстрация всех сценариев (bash, cmd)
 ```
 
-На .NET 9/10 таблица покрытия скрывается новым форматом вывода; чтобы её увидеть, запусти `dotnet test -tl:off`.
-
-В PowerShell оператора `<` нет, демонстрация запускается так:
-
 ```powershell
 Get-Content data/demo-session.txt | dotnet run --project src/Vyshkat
 ```
