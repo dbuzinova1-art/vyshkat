@@ -1,0 +1,13 @@
+# Пилотный парк «ВышКат»: вид;поля через «;» (формат описан в README)
+scooter;KS-101;Ninebot G30;8;1.2
+scooter;KS-BAD;Broken M365;7;0
+ebike;EB-301;Kupers Pro;4;2.5
+bicycle;BK-201;Forward City;9
+helmet;HL-01;L
+dock;DK-02;10
+charger;CS-03;Покровка-Хаб;15
+
+# Ошибочные строки: покажут защиту от неверных данных
+bicycle;KS-101;Stels;7
+scooter;KS-102;Xiaomi;11;1.0
+hoverboard;HB-1;Smart;5

@@ -1,0 +1,43 @@
+6
+3
+data/fleet.txt
+1
+2
+EB-302
+Eltreco XT
+6
+2,1
+1
+1
+KS-303
+Dead Battery
+7
+0
+1
+3
+BK-202
+Stels
+abc
+1
+3
+KS-101
+Stels
+7
+2
+1
+HL-02
+m
+2
+2
+DK-03
+4
+2
+3
+CS-04
+Hub Shabolovka
+12.5
+9
+4
+5
+6
+0
